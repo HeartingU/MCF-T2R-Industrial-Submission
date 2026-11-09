@@ -34,14 +34,3 @@ export CAG_OUTPUT_DIR=./rerun_results
 python 03_code/run_cag_v2_experiments_portable.py
 ```
 
-## Archive and publication provenance
-
-The original `MCF_T2R_Industrial_Submission_Package.rar` is provided unchanged, together with its extracted files for browsing. Its SHA-256 is:
-
-```
-F07D31E9D9884CFC4ED61C40A57E4D220B73AB3718520CAA012B743D88731540
-```
-
-The repository README corrects the original archive README's description of the PDF: the supplied PDF is original engineering evidence, not a reconstruction. All other extracted files, including that PDF, are byte-identical to the archive contents. The README inside the unmodified RAR still has the original description.
-
-Publication preserves the supplied reported results and supplementary records. It does not independently reproduce or validate model experiments, and no new model runs or experimental results were produced while preparing this upload. Full source-based reruns still require the authorized complete sources described above.
