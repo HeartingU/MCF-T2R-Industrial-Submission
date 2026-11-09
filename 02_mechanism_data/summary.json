@@ -1,0 +1,19 @@
+{
+  "source_equipment_count": 11,
+  "gold_material_tuple_count": 295,
+  "structured_constraint_gold_count": 177,
+  "material_library_rows": 585,
+  "fixed_seed": 20260908,
+  "controlled_corruption_design": {
+    "missing_standard_rate": 0.15,
+    "domain_error_rate": 0.2,
+    "fd_error_rate": 0.2,
+    "business_error_rate": 0.2,
+    "plausible_same_type_negative_rate": 0.1
+  },
+  "repair_total": {
+    "cases": 120,
+    "correct": 114,
+    "accuracy": 0.95
+  }
+}

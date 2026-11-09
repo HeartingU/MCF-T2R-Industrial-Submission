@@ -1,0 +1,4 @@
+﻿method,gold,generated,exact_match,missing,redundant,precision,recall,f1
+Strict-rule,295,170,170,125,0,1.0,0.576271186440678,0.7311827956989247
+Dictionary/RAG-assisted,295,278,278,17,0,1.0,0.9423728813559322,0.9703315881326353
+Maximum-recall,295,295,295,0,0,1.0,1.0,1.0

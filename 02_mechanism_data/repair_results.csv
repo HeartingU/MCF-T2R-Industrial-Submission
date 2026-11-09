@@ -1,0 +1,5 @@
+﻿corruption_type,cases,correct_repair,repair_accuracy
+Missing standard,30,30,1.0
+Missing material type,30,30,1.0
+Conflicting standard,30,30,1.0
+Ambiguous grade,30,24,0.8
